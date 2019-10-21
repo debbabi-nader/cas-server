@@ -30,3 +30,5 @@ The artifact of this CAS server WAR overlay, was deployed on an Apache Tomcat se
 After a successful deployment, the CAS server will be available at `https://localhost:8443/cas`.
 
 The CAS server artifact, expects a successful connection to a database named `cas` provided by a running Postgres server.
+
+The `cas-server.sql` file can be used to populate the `cas` database with some test data.
