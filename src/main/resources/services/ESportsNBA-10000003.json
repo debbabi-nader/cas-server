@@ -1,0 +1,7 @@
+{
+    "@class" : "org.apereo.cas.services.RegexRegisteredService",
+    "serviceId" : "https://localhost:8443/esports/nba/login/cas",
+    "name" : "ESports NBA",
+    "id" : 10000003,
+    "evaluationOrder" : 1
+}

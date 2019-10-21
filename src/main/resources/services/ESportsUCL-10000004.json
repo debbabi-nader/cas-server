@@ -1,0 +1,7 @@
+{
+    "@class" : "org.apereo.cas.services.RegexRegisteredService",
+    "serviceId" : "https://localhost:8443/esports/ucl/login/cas",
+    "name" : "ESports UCL",
+    "id" : 10000004,
+    "evaluationOrder" : 1
+}
