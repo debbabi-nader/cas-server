@@ -28,3 +28,5 @@ mvn clean package
 The artifact of this CAS server WAR overlay, was deployed on an Apache Tomcat server, pre configured to work with SSL, and to accept connections over HTTPS, with a locally generated keystore named `thekeystore` with `changeit` as a password.
 
 After a successful deployment, the CAS server will be available at `https://localhost:8443/cas`.
+
+The CAS server artifact, expects a successful connection to a database named `cas` provided by a running Postgres server.
